@@ -1,0 +1,9 @@
+google.com > 216.58.219.206
+youtube.com > 172.217.4.206
+facebook.com > 31.13.69.228
+baidu.com > 123.125.114.144
+yahoo.com > 206.190.36.45
+amazon.com > 54.239.17.6
+wikipedia.org > 208.80.154.224
+qq.com > 61.135.157.156
+google.co.in > 216.58.219.195
